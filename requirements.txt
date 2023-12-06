@@ -1,0 +1,10 @@
+streamlit==1.26.0
+pandas
+pyarrow==10.0.1
+snowflake==0.0.3
+snowflake-connector-python==3.2.0
+snowflake-snowpark-python==1.5.1
+snowflake-sqlalchemy==1.5.0
+streamlit-extras==0.3.2
+streamlit-modal==0.1.0
+streamlit-scrollable-textbox==0.0.3
