@@ -214,12 +214,6 @@ if col1.button('Previous Page', key='prev_page'):
 
         st.experimental_rerun()
 
- 
-
- 
-
- 
-
 if col3.button('Next Page', key='next_page'):
 
     if st.session_state.page < total_pages:
