@@ -183,3 +183,5 @@ if col3.button('Next Page', key='next_page'):
  
 
 col2.write(f'Page {st.session_state.page}/{total_pages}')
+
+ 
